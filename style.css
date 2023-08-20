@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    body{
+   height: 625px;
+    background-size: cover;
+    margin-right: 20px;
+    background-image: linear-gradient(to bottom left,rgb(233, 49, 218),rgb(122, 8, 122),#51CAF3,rgb(61, 153, 218));
+}
+.border-design{
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    height: 550px;
+    width: 350px;
+    margin-left: 560px;
+    margin-top: 90px;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 19px;
+}
+.lable1{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    color: rgb(88, 86, 86);
+}
+.lable2{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    color: rgb(88, 86, 86);
+}
+input[type=text]{
+    border: none;
+    margin-right: 10px;
+}
+.input-password{
+    border: none;
+    border-bottom: 1px solid rgb(177, 175, 175);
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.input-username{
+    border: none;
+    border-bottom: 1px solid rgb(177, 175, 175);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.login{
+    margin-left: 24px;
+    margin-top: 35px;
+    padding-left: 140px;
+    padding-right: 140px;
+    border: 1px solid white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 15px;
+    background-color: #51CAF3;
+    background-image: linear-gradient(to left,rgb(233, 49, 218),rgb(187, 21, 187),#51CAF3,rgb(61, 153, 218));
+}
+.option{
+    text-align: right;
+    margin-right: 18px;
+    margin-top: 10px;
+    font-size: 14px;
+    color: rgb(88, 86, 86);
+}
+p{
+    font-size: 14px;
+    color: rgb(88, 86, 86);
+    text-align: center;
+    margin-top: 35px;
+}
+.sign-up{
+    margin-left: 150px;
+    margin-top: 10px;
+    border: none;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+    margin-left:6px;
+    
+
+    
+}
+.facebook{
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 30px;
+    height: 33px;
+    background-color: rgb(39, 32, 91);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.twitter{
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 30px;
+    height: 33px;
+    background-color: rgb(70, 115, 220);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+.google{
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 30px;
+    height: 33px;
+    background-color: rgb(245, 27, 27);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+.para{
+    margin-top: 50px;
+}
